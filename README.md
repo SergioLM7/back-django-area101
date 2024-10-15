@@ -14,7 +14,8 @@ git clone https://github.com/SergioLM7/back-django-area101/
 
 Create a virtual environment:
 ```
-virtualenv venv
+python -m venv myenv
+source myenv/bin/activate  # En Windows usa myenv\Scripts\activate
 ```
 
 Install the requirements:
