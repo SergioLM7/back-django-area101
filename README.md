@@ -21,3 +21,8 @@ Install the requirements:
 ```
 pip install -r requirements.txt
 ```
+Run the server:
+```
+cd apiArea101
+python manage.py runserver
+```
