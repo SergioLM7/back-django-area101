@@ -137,4 +137,5 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://127.0.0.1:3000",
     "https://front-nuxt-area101.vercel.app",
+    "https://django-area101.onrender.com",
 ]
