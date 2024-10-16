@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-yy&*7+f$a2o^=96cz2j2((-i@uu86%l78+3k&s89z@sr6t)_i$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app', 'onrender.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app', 'onrender.com', 'django-area101.onrender.com', 'https://front-nuxt-area101.vercel.app']
 
 
 # Application definition
