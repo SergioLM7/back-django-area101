@@ -33,7 +33,7 @@ SIMULATED_USER = {
     "password": "passwordArea101"
 }
 
-#Function to check the user who is logining
+#Function to check the user who is logining and create the token
 @api_view(['POST'])
 def token_obtain_simulated(request):
     username = request.data.get("username")
