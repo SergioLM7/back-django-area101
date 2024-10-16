@@ -3,8 +3,14 @@
 ## About the project
 This project is a API REST created with Django framework. It provides a JSON with a list of 10 best-seller books (id, title, author, price, image).
 
-Deployment version, on Render.com: https://django-area101.onrender.com
+**Deployment version, on Render.com:** https://django-area101.onrender.com
 
+### Built With
+
+* <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title="Django" alt="Django" width="40" height="40"/>&nbsp;
+* <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+* <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+* <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
 
 ## Installation
 Clone the repository:
@@ -29,3 +35,9 @@ Run the server:
 cd apiArea101
 python manage.py runserver
 ```
+## Contact
+
+**Sergio Lillo, Full Stack Developer**
+<a href="https://www.linkedin.com/in/lillosergio/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" width=30px, height=30px/></a> - sergiolillom@gmail.com
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
