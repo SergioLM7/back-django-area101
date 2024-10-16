@@ -5,6 +5,8 @@ This project is a API REST created with Django framework. It provides a JSON wit
 
 **Deployment version, on Render.com:** https://django-area101.onrender.com
 
+**Link to the Nuxt Frontend**: https://front-nuxt-area101.vercel.app
+
 ### Built With
 
 * <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title="Django" alt="Django" width="40" height="40"/>&nbsp;
