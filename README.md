@@ -1,7 +1,9 @@
 # Django API REST - Books - Area101 technical interview
 
 ## Introduction
-This project is a API REST created with Django framework. It provides a JSON with a list of 10 best-seller books.
+This project is a API REST created with Django framework. It provides a JSON with a list of 10 best-seller books (id, title, author, price, image).
+
+It has been deployed on Vercel: 
 
 
 ## Installation
