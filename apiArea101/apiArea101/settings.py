@@ -140,3 +140,19 @@ CORS_ALLOWED_ORIGINS = [
     "https://front-nuxt-area101.vercel.app",
     "https://django-area101.onrender.com",
 ]
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'handlers': {
+        'console': {
+            'class': 'logging.StreamHandler',
+        },
+    },
+    'loggers': {
+        'django': {
+            'handlers': ['console'],
+            'level': 'DEBUG',
+        },
+    },
+}
